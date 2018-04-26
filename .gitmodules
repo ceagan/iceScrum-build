@@ -1,0 +1,6 @@
+[submodule "icescrum"]
+	path = icescrum
+	url = https://github.com/ceagan/iceScrum.git
+[submodule "plugins/icescrum-core"]
+	path = plugins/icescrum-core
+	url = https://github.com/ceagan/iceScrum-core.git

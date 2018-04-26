@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# Moves to the icescrum directory and runs grailsw there.
+#
+
+cd icescrum
+./grailsw "$@"
+
